@@ -9,10 +9,14 @@
     for all items, printing the frequency of all items as a histogram with asterisks, and exiting the program.
   
 # What did you do particularly well?
-    o	
+    I created code that was well organized and labeled which allows it to be added to whenever I would need to. 
+    I used classes, functions, maps, etc. to help neaten up my main function and allow it to be added onto.
 
 # Where could you enhance your code? How would these improvements make your code more efficient,secure, and so on?
-    o	
+    I could improve my code by maybe editing how it receives a user word to search, instead of taking string entered 
+    by the user, I should also remove any capital letters and punctuation. This would lessen the risk of not finding 
+    a word just because you capitalized the wrong letter or added a period. This would mean I would also need to change 
+    the strings from the text document to all lower case with no punctuation as well.
 
 # Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
     The coding I had trouble with at first was setting up and using the map. It was difficult for me to get it to 
